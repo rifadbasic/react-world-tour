@@ -1,0 +1,15 @@
+.country{
+  border: 1px solid lemonchiffon;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.visited {
+  background-color: #646464;
+}
+
+.visit-btn{
+  background-color: #4cf9ff;
+  color: black;
+}
